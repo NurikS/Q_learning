@@ -5,4 +5,4 @@ The point is to learn how to most efficiently take a client from point A to poin
 reinforcement learning is trial and error, the agent interacts with the environment and based on how it 
 accomplished a task, it will get a reward. The objective is to maximize the expected reward by playing 
 over and over again and learning the most optimal way.The central function in Q-learning is a Q function
-(https://cdn-media-1.freecodecamp.org/images/s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk)
+(https://cdn-images-1.medium.com/freeze/max/1000/1*trCNkfvyNnokeKhYUlJxfg.png?q=20)
